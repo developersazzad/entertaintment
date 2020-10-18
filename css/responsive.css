@@ -1,0 +1,69 @@
+@media (max-width:5000px) {
+  .testmonil_item img{
+  height:150px;
+  }
+}
+@media (max-width:768px) {
+.img_bac h2.display-4{
+  font-size: 36px !important;
+}
+a.nav-link {
+    padding: 8px;
+    background: #3d3d3d00;
+    font-size: 14px;
+    border: 0px solid white;
+}
+.frist_img{
+  height:100vh;
+}
+.small{
+  font-size: 12px;
+  color:black;
+  font-weight: 600;
+}
+a.play_btn {
+    font-size: 10px;
+    color: white;
+    background: #07139e75;
+    padding: 0px 10px;
+    border-radius: 7%;
+    margin: -4px;
+    text-decoration: none;
+}
+i.fa.fa-trash {
+  position: absolute;
+    font-size: 15px;
+    color: #f80635;
+    right: 26px;
+    top: 16px;
+    background: #1d2122;
+    padding: 5px;
+    border-radius: 50%;
+}
+a.btn.mt-1.btn-primary.btn-sm {
+    padding: 3px 10px !important;
+}
+.profile_text h4,h5{
+  font-size: 20px !important;
+}
+}
+@media (max-width:576px) {
+i.fa.fa-trash {
+    position: absolute;
+    font-size: 23px;
+    color: #f80635;
+    right: 35px;
+    top: 25px;
+    background: #1d2122;
+    padding: 10px;
+    border-radius: 50%;
+}
+}
+@media (min-width:768px) {
+  .profile_text {
+      margin-top: 0;
+  }
+}
+@media (max-width:360px) {
+
+}
